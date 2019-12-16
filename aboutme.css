@@ -1,0 +1,21 @@
+p{
+color: black;
+font-family: 'Lilita One', cursive;
+font-size: 20px;
+
+}
+h1{
+  background-color: pink;
+  border: dotted 8px cornflowerblue;
+}
+h2{
+   text-align: center;
+  }
+
+body{
+  background-color: pink;
+}
+
+a{
+  font-family: 'Lilita One', cursive;
+}

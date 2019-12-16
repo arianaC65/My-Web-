@@ -1,0 +1,38 @@
+h1{
+  color: black;
+  border: dotted 8px black;
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+
+body {
+ background-image: url("https://media.phillyvoice.com/media/images/Supernumery_Rainbow.2e16d0ba.fill-735x490.png");
+}
+
+img{
+    text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  margin-bottom: 30px;
+}
+
+a{
+  color: black;
+ text-decoration: underline black;
+font-family: 'Lobster', cursive;
+border: dotted 8px black;
+  font-size: 50px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  
+}
